@@ -1,4 +1,5 @@
 spring:
   application:
-     name: talap_bank_app
+     name: talap_bank_application
+     
      
